@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tiegaekie.chenjue.name/sitemap.xml
